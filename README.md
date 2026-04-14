@@ -3,7 +3,7 @@
 Welkam di repositori khusus untuk mata kuliah **Object-Oriented Programming (OOP)**. Repositori ini berisi kumpulan tugas, latihan (jobsheet), dan eksperimen kode menggunakan bahasa pemrograman **Python**.
 
 Nama : Naufal Azka Fadhlillah <br>
-NIM : 4.33.25.2.16
+NIM  : 4.33.25.2.16
 
 ## 📂 Daftar Isi (Struktur File)
 
